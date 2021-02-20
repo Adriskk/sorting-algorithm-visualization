@@ -14,7 +14,7 @@ Project visualize only 5 sorting algorithms for now:
 
 ```git
 git clone https://github.com/Adriskk/sorting-algorithm-visualization.git
-cd 
+cd sorting-algorithm-visualization
 ```
 
 2. Install all the requirements
